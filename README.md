@@ -1,1 +1,2 @@
-# Stack_Cpp
+## Stack
+### Stack implementation with dynamic memory allocation
